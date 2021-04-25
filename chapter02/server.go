@@ -1,6 +1,6 @@
 package main
 
-import "dao"
+import "chapter02/src/dao"
 
 func main() {
 	dao.GetProducts()
